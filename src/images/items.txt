@@ -1,0 +1,27 @@
+Described By (Author)
+Full Taxonomy
+Tree
+    Native/Exotic/Invasive
+    Toxicity
+    Height at Base Age
+    Potential Height
+    Lifespan
+    Shape
+Leaves
+    Fall Color
+    Retain in Winter?
+Flower
+    Color
+    Bloom Period
+Fruit/Seed
+    Color
+    Fruit Period
+    Persistent
+    Edible(Palatable Human)
+Conditions for Growth
+    Spread Rate
+    Soil Adaptation
+    Minimum/Maximum Precipitation
+    Drought Tolerance
+    Shade Tolerance
+
